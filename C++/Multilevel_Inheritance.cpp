@@ -7,7 +7,7 @@ class MyClass
 public:
     void myFunction()
     {
-        cout << "Something" << endl;
+        cout << "Something from myFunction()" << endl;
     }
 };
 
