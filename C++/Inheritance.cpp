@@ -23,9 +23,11 @@ int main()
 {
     Car myCar;
     Vehicle vehicle;
-    vehicle.honk();
+    // vehicle.honk();
     // myCar.honk();
     // cout << myCar.brand;
-    cout << vehicle.brand;
+    // cout << vehicle.brand;
+    // cout << myCar.model;
+    myCar.honk();
     return 0;
 }
